@@ -1,3 +1,3 @@
 # CS361-Project
 
-This is a test commit for assignment 2
+This is a test commit for assignment 2.
